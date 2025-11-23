@@ -35,6 +35,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |              |                     |                        |
 
 ### Bending Loss
+![Uploading image.png…]()
+
 
 | Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
 |------------------|---------------------|------------------------|
