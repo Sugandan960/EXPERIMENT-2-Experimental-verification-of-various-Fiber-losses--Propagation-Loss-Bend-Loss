@@ -27,6 +27,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 **Tabulation:**
 
 ### Propagation Loss
+![Uploading image.png…]()
+
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
 |--------------|---------------------|------------------------|
