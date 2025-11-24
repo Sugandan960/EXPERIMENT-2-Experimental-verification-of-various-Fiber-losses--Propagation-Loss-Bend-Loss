@@ -28,6 +28,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 ### Propagation Loss
 
+![17639563557383952620492916949303](https://github.com/user-attachments/assets/683fbf2b-2d1e-45a1-8032-758bede1a017)
 
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
