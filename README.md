@@ -37,6 +37,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 ### Bending Loss
 
+![17639564392493618761861988646055](https://github.com/user-attachments/assets/fb1a3558-262f-41c6-a4ad-8f056abf5710)
 
 
 
